@@ -1,4 +1,4 @@
 Project EY-Techathon for EY
-Fully Automated AI based Banking System for Finance.
+Fully Automated AI based Banking System for .
 
 Django Complexity
