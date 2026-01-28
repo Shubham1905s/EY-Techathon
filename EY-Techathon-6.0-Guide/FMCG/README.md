@@ -8,7 +8,7 @@
 
 ---
 
-## 🧾 Problem Statement
+## 🧾 Problem Statement 
 
 The project focuses on automating the B2B RFP response process for a large industrial products manufacturer operating across FMCG, wires, and cables. The objective is to increase the number of RFP qualifications and responses while reducing bottlenecks in the process.
 
